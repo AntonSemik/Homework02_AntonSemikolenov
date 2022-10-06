@@ -1,8 +1,7 @@
 # IH workshop2022 02
 
-## New Input System demo
+Для использования виртуального джойстика необходимо переключить Player Input на другую карту вручную
+Переключение должно происходить автоматически при подключении геймпада, нет возможности проверить
 
-
-### ThirdPartyNotice
-Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
-A. Roboto Black
+Ускорение на ЛКМ работает только на карте Keyboard
+На карте VirtualJoystick ускорение привязано к правому триггеру геймпада и экранной кнопке
